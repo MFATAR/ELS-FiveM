@@ -1,5 +1,5 @@
 ### Master branch is now considered development work. Use the releases tab for stable builds.
-https://discord.gg/GUvNXNe
+https://discord.gg/rfqSGVNK8Z
 
 **Default Controls**
 https://github.com/MrDaGree/ELS-FiveM/wiki/Controls
